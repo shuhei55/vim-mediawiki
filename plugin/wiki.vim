@@ -4,4 +4,4 @@ endif
 
 let g:loaded_mediawiki = 1
 
-command! MediaWiki call mediawiki#Execute()
+command! MediaWiki call wiki#Execute()
